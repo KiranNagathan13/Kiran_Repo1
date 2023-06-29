@@ -1,0 +1,2 @@
+def team():
+    print("team")
